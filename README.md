@@ -74,7 +74,8 @@ Compares sales representatives’ performance over time.
 ## 📂 File Structure
 
 ```
-/Sales Dashboard - Mohamed Safwat Hassan.xlsx
+/Sales Performance Analysis Dashboard.xlsx
+/Sales Performance Analysis Dashboard - Demo Image.png
 README.md
 ```
 
