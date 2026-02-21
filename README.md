@@ -1,7 +1,3 @@
-# Sales-Performance-Analysis-Excel-Dashboard
-Advanced Excel Sales Performance Dashboard built with Pivot Tables, Power Query, and dynamic KPI tracking for revenue, customers, payment methods, and fulfillment analytics.
-
-
 # 📊 Sales Performance Dashboard – Excel
 
 An advanced interactive Sales Performance Dashboard built entirely in **Microsoft Excel** using Pivot Tables, Power Query, formulas, and dynamic charts.
